@@ -3,30 +3,35 @@
       "jobtitle": "cleaner",
       "location": "kalamassery",
       "jobid": 1,
-      "jobdiscription": "room cleaning needed"
+      "jobdiscription": "room cleaning needed",
+      "additionalinfo": "all of the rooms needs to be cleaned"
    },
    {
       "jobtitle": "carpenter",
       "location": "vytila",
       "jobid": 2,
       "jobdiscription": "fix room window"
+      "additionalinfo": "all of the windows needs to be fixed"
    },
    {
       "jobtitle": "carpenter",
       "location": "aluva",
       "jobid": 3,
       "jobdiscription": "build new chair"
+      "additionalinfo": "all of the chairs needs to be repaird also"
    },
    {
       "jobtitle": "plumber",
       "location": "edapally",
       "jobid": 4,
       "jobdiscription": "wash room piping"
+      "additionalinfo": "wahrooms needs to be usefull with hot water"
    },
    {
       "jobtitle": "electrician",
       "location": "marad",
       "jobid": 5,
       "jobdiscription": "wiring of second floor"
+      "additionalinfo": "all of the rooms needs to be set with blue light"
    }
 ]
